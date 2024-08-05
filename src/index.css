@@ -1,0 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.ant-select-selector .ant-select-selection-placeholder {
+  color: black; 
+}
